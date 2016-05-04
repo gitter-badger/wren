@@ -1,5 +1,7 @@
 ## Wren is a small, fast, class-based concurrent scripting language
 
+[![Join the chat at https://gitter.im/raulgrell/wren](https://badges.gitter.im/raulgrell/wren.svg)](https://gitter.im/raulgrell/wren?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Think Smalltalk in a Lua-sized package with a dash of Erlang and wrapped up in
 a familiar, modern [syntax][].
 
